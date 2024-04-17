@@ -1,3 +1,5 @@
+// Code Author: Celeste
+
 import java.util.Scanner;
 
 public class Ejercicio_02_CalculadoraHipotenusa {
